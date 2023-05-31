@@ -1,0 +1,15 @@
+.font{
+   font-family: Lucida Handwriting;
+}
+.textFont{
+    font-family: Courier New;
+}
+.bg-color{
+    background-color: rgb(196, 204, 230);
+}
+.margin{
+    margin-left: 350px;
+}
+.card-border{
+    border: 2px solid rgb(81, 81, 145);
+}
